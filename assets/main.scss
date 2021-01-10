@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 
+pre {
+    tab-size: 2;
+}
+
 img[src*="#spacing"] {
     padding-top: 32px;
     padding-bottom: 32px;
