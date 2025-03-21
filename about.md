@@ -12,7 +12,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
 
 I'm a French software engineer, you can find me on:
 
-- [Twitter](https://twitter.com/youribm) where I don't say much
 - [Github](https://github.com/youribonnaffe) where I sometime share personal projects and contribute to OSS
 - [LinkedIn](https://www.linkedin.com/in/youribonnaffe/) where you can find out my current job
 
