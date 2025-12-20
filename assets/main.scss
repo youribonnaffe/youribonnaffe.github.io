@@ -12,3 +12,19 @@ img[src*="#spacing"] {
     padding-top: 32px;
     padding-bottom: 32px;
  }
+
+ .page-content {
+  text-align: justify;
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: lightgrey;
+}
