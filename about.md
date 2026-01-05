@@ -18,4 +18,7 @@ I'm a French software engineer, you can find me on:
 _This is a not a blog_ is the sense I do not intend to frequently post content, but I just 
 wanted to share content online while avoiding the paywalls.
 
+If you like what you read, please [let me know](mailto:youribm@gmail.com)! 
+I'm not running any tracker on the site, so I have no clue 🤓.
+
 
